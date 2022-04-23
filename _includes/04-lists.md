@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# my favorite
+1. baseball
+   1. swallows
+   2. tigers
+* marjang
